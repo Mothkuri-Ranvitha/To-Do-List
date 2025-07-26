@@ -2,7 +2,7 @@
 
 A clean and simple to-do list application built with React. This project allows you to add, track, and manage your daily tasks.
 
-![To-Do List App Screenshot](screenshot.png)
+![To-Do List App Screenshot](to-do/screenshot.png)
 
 ## Features
 
